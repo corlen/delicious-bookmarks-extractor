@@ -16,5 +16,8 @@ project/boot/
 project/plugins/project/
 .scala_dependencies
 .worksheet
+.DS_Store
+*.jar
+*.bat
 
 
